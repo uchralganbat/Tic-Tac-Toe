@@ -1,0 +1,13 @@
+.board {
+    outline: 2px solid black;
+}
+
+.row {
+    height: 200px;
+}
+
+.cell {
+    height: 200px;
+    width: 200px;
+    outline: 2px solid grey;
+}
